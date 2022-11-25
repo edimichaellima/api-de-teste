@@ -44,6 +44,6 @@ mongoose
 
 
 const PORT = process.env.PORT || 8089
-    app.listen(PORT,()=> {
+    app.listen(PORT,() => {
       console.log("Servidor rodando!");
     })
